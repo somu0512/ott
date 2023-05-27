@@ -1,0 +1,245 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "Kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": 9.5,
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "moviename": "Bajirao Mastani",
+      "hero": "Ranveer ",
+      "heroine": "Deepika padukone",
+      "director": "Sanjay leela bhansali",
+      "languages": [],
+      "genre": "history",
+      "poster": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFBUYGRgYGhsdGxsaGxshHR8bIRobGhsbGx0cIS0kGyMqJBobJTclKi4xNDQ0GyM6PzozPi0zNDEBCwsLEA8QHRISHzMqJCszMzMzMzM0MzMzMzM1MzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzM//AABEIAKgBLAMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAEAAIDBQYBBwj/xAA9EAACAQIEBAMGBAUEAQUBAAABAhEAAwQSITEFQVFhInGBBhMykaGxQsHR8BRSYoLhIzNy8QdDY5Ki0iT/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAjEQACAgMBAAICAwEAAAAAAAAAAQIRAyExEkFRBDITImFC/9oADAMBAAIRAxEAPwDxmlSpUAKlSpUAdpCuU5aAOinCuV0UwHLTo1rkc6kC60FUJKmS1v5UwCibbaHyNIpIlt2gKlO1RpJPy+VFMgqWaIEVNPWnvZHKnW0+9PvwNqYUCMlS5BvTrak1EaBDwtM50lR8wABJ39OvYa0Rc4dcAkgfM694jT160rS6LoO6z3qeygAqBHA0Onnp9TpRidKGwijjW9a4LWtTqulSW07VLZoojEtA1MLQ6fb9KJs2qmWxNRZfghtoInL9v0rlyANtqc6EVG5/6oE4grxNRNbFTXFE1FNUiAcAbGnixTmSaMW1oKGwUQRbIBBIqLFIu451YogJg0NjEGwoTG46Ku+mg8qY35D7UW6iD2qPJ9hWqZlKII1NiprqjkKjirTM2itpUqVQIVKlSoAVOU02uigCSu1GDTg1AyVTyqRTUK1OBrQUiQLUi7HyNQzRNpAR6UhhGG/f7+VS4htD6VyysU9pI9RUmi4B2nIPqaIfXWKaqbzG551wmKoXBzPHOh1BYwoksQABuTyFR3rkk1a+zFkNcJInSAf5Z39SNPInrSelYrt0aHgnCxzAjSSPxMOf/EbD1POrTHcJ6T9u+1Wf8GLKB/iOoVB8TBQS5ELCjwmCTrptNOU5wVggToDPma5pSvZsotGEx3CgSdKrcThnsEeElOh5A/yn8J+nUGvSzwhQZO1VnG8GuUjtSWRor+NMxdu8DqpkHYxBjy5Hlz1nejcNrvp570HhMP7u46xoRI02MwfTUVYW0JIrdJNWZ+mnTCAkU4ED/NSImldZIFKjT1oidutB3LevSaJugGoGEDQk9jR5YnNA92yeYoS4uWjxioMH/H+KdcQONNKLaBpPgLYIo0DSokw5Uwee1EFI32pDigHEabUNcMirHGsuTnPLSq7J8jVIUkD4hNJ5xUeXbloKMxC6adD+VK3amI6A9qpMhxK1010nWmi3v50fibWvKhAN9DvWiZm4lJSpUqRiT4eyGOub+1c35iiGs2I0uXM3RragDzIdj6Zau/Y27C4lc+XNZdQSWyglHIJjaCqmY5V32vSUwwXLcKoEa8g0doUhSfiYjWCwBINA6ZTvZw0CHeSwkEbLmgkGNdJNcNvDx8TzrGmm47TtJ7ba7nXe0XAlXAZVUi5g3XMxBCut1ELshI8WW4I7CaovZ5Zw2MlyIRYHUw7enwUCABaw3il7mm2g10G+mmsj0qPJYj4nnN0Hw5iCdv5YPck7RroL2HC3OHFWId/d5jMHU24M/wBxHoafbxkLjDeVHS6kqpKsUuNJVrepKZWYrpzgHbQHTKC0mH5vcBk6hRBGbSOclfkY3qbLhpH+pcInxeESBziRqf32NbhbDXHS2urMyqv/ACYgD6mtj7Q8GX3dgIpR7dxsOwYEFkLBkvQRquZ3BbYyuppDRnrFu0ZBe5m1PgQNp3zMhHnr5dXjKB4WY+ahfs7Ub7QhrN98OhKJayqFUxmORWLvEZ2JMyewGgAp+Fwy3cLeua+8w5Qz/OjkrDdWWCZ6COQoKRBYeaJVOdBWhRdsxzqGaROsmh86BvsRR7PvQb2S5oTCS+gHLM1s/YLBF1Vo0ZiTpyBI/KqJcLlEKjOx0gAk9NYr172T4MLNlEPxBFB+Qn60sktUGOFO2CXrebiKDIwUZlks5SMi5QFMAA7T4hMxEiLS4qtfdVjw/kAD9Z+VR8ZvW1v2398VcGcgAytCPE6dwe2XvQnD8SEukEiT2G/pWBre9D+KcVSwpDIWPQV57jPaQ+9YNlZDvlMwOoI23Far2qcs22lUHBfZu3dZnYTMg6xrSTXyaNOrRXXVnVTIjfqK4imYp2FtFQ6tAljkUfhUbanmdJ8qLweFLuFEeZMAACSSeQABJ8q6I6VGUlbsmUDLoZ115eUdams4S40qiE9QNT6jcHX61ruFcHw9pFdcl5jrnIBQHoiHQkbS2umwrzn2+w7Pii8y2UQefhPKNu3lQpJuiZJqNhGJwj2yQysv/JSPvUDIQB9P81R4TjF6zoXZhoMjaoQRAkEx5QPXlVph+JLcQuwCQQcu8g6Er/dOhiRtMGLsytMIw1sGc2tPGFIMj5VPgCCpKwQdQRVhbsaDTWm0mUrTAVjTMPUVMMNm21HUVK1rkBSELrqD1H71rNw+joU/srcRhv3/AIoNrQG/Or6ziVb/AHFEnn3qsxSgSN+x+YqLa0U0ntFffQgEc4P2p9i0YHMkAQDVimGZ0UkSRz9KL4faIBUICw0zEnmQQQPLT0o9goGdxGGuAAnTeBzgb1XXA0+Hlp6861uJtjN49xrrERA2I31IqixVnxGCAPIfpVxmZzhXDJUqVFcPt5rttSJDOojrLARWpxFlwXFW7du+txypdMoAUkzBBnSANTzB0qy4bxGxbS3ba4WVHW6SUaDcVXyKmklQXk5o5wDNS+3fDAXXFWhKu7WrkD/10YoTH9YXN3Ialx/hyWsAltQM9u+q3G0/3HtM7CeYACif6aRXp1QH7P8AHVS/c/iiz2bqurqpY/FsUB6HkY0nnFQYG8lu1iEDBlcKFaCPw3ANCN/EsgddzzJ9iMMPeNiHts6WsoyqCZZ2CTHMBSxNCY/CLhcb7q6payl1Wy82tEhlMHQkoRofKgE/stMXisIxwRW9HuFX3pyXNSoQjJprJUjXLuDQK8UtLddT47FxQsEGVgCNCOq65eRBGoEWXtMt+wzXrdz32FvMr2nIlVIJKrl/Ay6joRuJBCjcPxLtw/E3GuuXV7eU5mkDOgMGdJzGhoFJrgLwhsPZum6b48Kt7sZbk5yIUuQsAAE6rJ28I1A7wHiiD3oxN18rIIPiZ84PhKnlBhtxqq7xTeCZ8Rf97cBb3FsOYBJYoAEXuxMecHvTPa3hosYlgohLgFxOUK0yscsrBl/toYJtO0WfH8fZxtxbrXEt38ircfK5tXWUAC4vgDIcu4I5CO8V3F2rVg4ewxf3hDXbhUrmynwoik5soOsneTprAsn4FavpbtIQuKXDo6g/DdXLqOzrB9I6GKpMKwwt5mzKUuWwyHSCA6kEf3D5CkxoGs60Ug5ii/aG2UvAGZNu2df+GX7hj60NZWoZtDY9bUkz1olrYtoTuYMDqaWFWWP79aZjrw5TA0mJE9B1pbZbaS2aD/x/wZ70YjESQhJtq0/EZBbKdAANB5zyr0tnyJ4dxy69qxXspxs30W3nVLisGyiMrIJAlQdCFMEeRHbRYnFyx5AaGsZt3scEq0ZL2jtBsVauSwAbN8RgmDrB23GnaiXu/inUj6jaqP22x0sAp22iqnDcb95bKlocDr9aEm0OSSZY8e46s5JljzETsJBn1+dHeznGkNsooEIhmM+dnO0jVeuoIiBvyylp/eEWUCuWJ1OkQJJnfYfSj7eGGHkZixaJJ00WYAH9x+dWsaaB5KL3gvB/4p2U3FQqAdRLMSTookTABnyrU4Hg1uwrPbBdyGQM+2uhOUQMpgjyJ1G9U3sqFQi9cgIdEhiGkyCcoMNr4dduQ51tOEsrC5cZYByqo/oUETPPxZh6TqCDSlfBKuleLIQB1XKWJFxdBJGgeBpJ5kb6dK8+47h2GLdSZEZl7qYJH3+Xet/xDiCCQOVed8b4pnxGdRqoy+fxRPbf6UoPY8i/qZ3ivD4grEGPlFVTBjGp8IzAdO8fKtfxW1oGA8Jhh2nWO2/27iqX+FBGYcxl/t0H5GtlI55QF7NcRKXPdsfC507N/mt3ZaYrzO6kEMukQR2516dwp/eW0ddC4BI7x+s/SrsIfR0proPOosTZ0B5Uf7vkOtQY0QI6fembIp2SSeQ/etNwbKW93c1k+En7U/FPlGmp59qrbrltVEFdaznG0OMqZoLVgjOvLWPMbj7GrHF4IC2lxd1OvQgSdR2iaq8NigbegzM4lzOigTPLcwR5CtVeuTlt2kzNC5tDlUbGO29ckm0daozt3hYysWh2JBB/pE5YHfU+RWqO/g1zGHgdCDP3rdp7KIZJdi06NJ0GwUaiABAEdKpsT7N3Cxi7AGmuhMaSddfOqjNfLIavh4xRvCrqrftu5yqjozGCdAwJ0A30oKlXceUaXhPH/dLft3IuK7C4m8C8rh1bUAwdQexPWh7PEVfCX7dx/G91LqyGOZvEHkgaaGaoqVAFyeIG3h0t2bpBLs75c6mYCqJgSAJ25mj+IcRsYlMI95z7y3Fu9o3itBpVwY1YAtI3MiNqy9KgDR2eLe5wl/Ci4Lq3ipAAbIuUglvGoOYwugH4QSdKj4fxC2uCxFhmhnZGQQxmGQsCQIGi1QxXQKBl1hseLWFZLVyLtx1LFc4YIoMKGiNzJg/OjcZxK3iMHaS65/iLLtlYhjmtturMFOoIUjf8UmTWcUUVYTSe1IKLrieJVnsPauHNbtW0JAZSHUt4hmA6girXjHGUv4YqyBL7sgdgDlcL+MxsRG0TrpMADPYa4p0g0TjE0XzP5VDey4oO9oMZbu3Ue20j3aqQVcEMs/zAAjUbHrUWHtzqTAG5/Kg8PazMBEkkKonckwB860GG9nL9zOJRXSP9MnUiJBUiRGhA7g0a+Sk2tI7guIW00yzrrK6H6z9NOlE4jG4W6QHtrbJ2a3BBIOniyqw8o61mcTmtEo6lXXdWEH996iVi8qqltC0AEmFUsx06AE1dKtE/Ia2Ke1cR0Ygo0o0AEjo0HURI+nltU4iL9sOhhmAgT+IaG2fuD+R082W4Zhpnluc0akTqNBr3+5/CMYbbEGSj8gdQw0DAd9o56VjONo0xzp0wr2mVmuAdtfPY1Jg+A2wAtxczHU6kRpsIPLrRuLi7m1m4uXp4kOis0kAEGBmJAIZSYhmrvCLmW57u6pVhMEgjTXQyBljadttZ3IJpFzkmxnDuGW7Ll1U5tQJJMCeXSetM4sCa0V7CgjKOtUvErOU67A/OqTM3GjeYC/gPcpaS4mVQIUnxTuSeckkk9zRnEeL2ggFsgBREDaOleVOAwykSOh1o7BcCNxG927giNMxIg9jWU4VuzaDssr+K95eW2DGYgeh5+Vc9oOHWbXvbdpWuOilrjkEBYy+FZGsh9SJjTWTU/s/7Ouh1d9evLWdBsNz86d7X8WbMLS5R7xXDLLTkVGYRLZYBGpI1zCNRSit6HOVdM9ZuC5h0Vt4jyIkH6is9dZkkc/pz2+dHYa+fcTzViZ75iR5b/Wq/EvJkbHl8vtoK0+SP+QMvMT5V6L7Drnww6o5H5j7/AGrzyBr1kHty+dbj/wAd4kgvbH4oYecQftVXsjGtmku+F9qgxQBE0ZirZDa8tKrMVdhh0O4P5xVo2ZS4ggZge+/adu+lBI4g6b1ZYhlLTvM6HtsdKjZFZcwRR32HkJOpoIsiwZJtnz1/L9969Y4RhwLKQACUQnzIE15VhrqLbdT4WBEBpB35A716fwziiWsPbdwSFtWyQok/DvHSa48y2kdFvxaL/E4IFQDpAkntMwOtVT2wxYxEk0yx7Y2bze7RXJaROkARqx10H+K696TNZ5vOqM8SnWz5fpUqVekcAqVKlQAq6K6BSigYhTwK4q0+KAOoKLstEUMgqZKTRSCsC0Enz/KjMTdzZAOU0Bhx+dFDbWalrZaei59l8OlzEZXtl1ytsdVIKn3mhB0iNNde1ehYvA5lRRch0Ga3dUCe08jI3GzfbzHhXEWw9xLqfhOoPNT8Q+XPyr0PhFy3dDPYb/TuGWtkyUfQkr/KDMlduY3NRk0VDZVe0PDVxNvxoy4kGAVBIJnkeaHTT8M6xWY9kcUcJxBEvqVzZrTjoHGVWHUTlM9Jr0fj/FP4W2mWGusRG20HUj0rCYjDW79wXLrNnzBsymCPFJXy6dPvEJ0qfC5Qva6Re1nABaxJtWswR9V0GhB2noJERqY9ao3VlPSRykDffqNp179K23/k3GWXS1cR/wDU0kRyOhg8mEfesGMRmBmI76nz89a1jtGU1TL3C4o3Fy5mzgEIQYzaEhSW5nWDpMweVXWNT3lpb65cykrdUO+UGD4gynRG5iPCSW5VjLDTodQdBIJ+Qn1q6wF1blwLcYgXAwYlok5WyMRBAMhdYJGsamk0JMvcHxEW2VHJKMB7u4QBJI2MaESCNPhIIIGld9oLfhB70zGcMIttaVi6BAVBiM3MgqpKlgpIBYgESI5B8NxJuWmtOZZIKtPx2+R8xsaSae0ab4wVZAEA1ofZjF5bwU/jUr6/EPsfnQIs5BsdqbhwfeIVzBs6x8xTkrQ4umelG4LdsvAkCfX5/sVi+I4UXW9448Vs3goUD/bZAkkDbVogwfAe9aq8jXLcKYbTyPUHtWd4ohs2LrspFxkNtFPxSTtznxEQY1k1jDhU+mA4Yvgup0J+un79Krb+kdPqJ5fIURfdkxFzozuDHTOQI+h+VCXAc0EjWPX99q1rZDeiEk1qvYDFKmI8QnwHnz/ZrOPaO0axP3mrH2WugYhP6gy/T/FNhDp6nexCtJAPz+VUPFDpFWGLQoAKprsyZ71dmtEFpVY+IgKgLOWJAyjlprqSBprrVNjMbexBFuzaJCDoBA7xorbmB19auMPhi7XFM5URmYCNcpET2Bj1ir3iJTAomGS0XYohdpIlzGbxZSGMttOgImKiTa4Z1bo81xQv2wM6FSBBJAafvyjetb7O+07NbCOfgAVf+Pnpz/cVD7Q4kLcNkpmaCW6R5CSdP8TVGcMbNx0BkTIPYgMNuxHqDU0pLaLi/MtMvuD8SNq64WPEij6D7/nV3b4sCP8AcI7Sawq3oYn+mmfxrUnhTNFkoy9KlSroPOFXRXK6KAHinimCnrQM7SinRTyaQ6Gqamw4mh6KwiUxoJtrA8qkzzA5CaHY8qchilQ2w21l1YiY5ctx99RVhwzj5w14OvwfCy6sCN8wPY689J5mqdcSBAYSJ16xGw/WoMTigwEDcnToNhUyV9GnRseLYh7t1rlwAExly7FdwR186gewYzDnWb4dxgrltuZQHQ9BO3l9q9Ls8NttbFwMCI0g6TyrnnFxOiElI8z9oLjSqtPM6+gH3NV9s6VuvaXgpvoHRGzKGiFPigTHedAIkyRIFYW2/lXRj/UwypqRd4bCTbS4JgvkeANNsv2+tFYvFWwQFhTpDRAGp2I3On+aD4VjgqXLbRBUsJ6gDUfKocTbkErpA6bAwPF00kAdFNL5NYRio+n8BFrGMiuUdoYBwFzf7itGoDCAwJJ5baaRR+FuquIQhibbEAMZ+FxnVSSTqM0HXcTtVLgwuuYEkgFYEwV35ek8uo3qLF3YUHuNRr6Ey06f1em9CWyJOnZ6LibJBjY1JwHhrPeDSciEMSdp/CPUj5A0FwO3fxFhH92UPwh7gKoVAH+oJguAD+HpqQDNaNeKYXB2cqsbhEszDZ3gSc2zHoF8IAAkAVMpNKkbQx+totcXiRYUZ/hLiW01B0hQdzzjtWd46bbI5WQQoEW86FdYkv8AiHLSBoZ3GWjvYi9i7yswYqPwpuo6SYCAwNBr11orFYd2OWVSJGRVDCSdDqdeevhjuTWSVaOj+KPpXZnMZh7YSVEZQY/ZqFLfvFhky+GFBG53kFvX/wCNNxRKmGOonKVkSR1k6RG2h19DX4vEtCtJlZ1HLUERHr9O9aJD/LcZbS50Y98gxGqmIMDbcGKdgr4W4rZYGYHQnadd+1R3MR7yCyrm0lgDJ5DMJ7dKYra+VU0eens9fe6LiowM+GfpVRjrZEnYd96l9nsVNkRrt8iJ/X5VHxRyZHL/ABVw2rNpJ/ANwoZb6K0FXIUjlDaD6wfMcq3ntBdTMjnLBAYMxga7eprzhL2S4rlQ0EeH6aDr0PWK2+IutbsolwZmFtZiBlJX4RGhUbAjpzrLKEOmI4jcFy6zjIc7sFCNmOXQDNzXUbHz2gmo4p/uOojwnL5kAKT9APICi8TchnuICrTAM5iO8npyqoc+I9PWfWnBFSImOvpH3ptthFMdobTl+Rmo0FapGLZTUqVKmcwq6K5SFADxT1qMU8UDJVNOFRrUmagokRaItgLUApO0Rvt9dY9KB3RIG56+ldNwDkajQSNZ9Sa7/CsZjn0gD5AfpQTRDcuT0ocvR5wEsoJImJJ156kQPpr50Tx7BogVrWqDwyPUgnv8VA/Lpso63/sdigcOVdWcK+WAZgMpKeE6QSrLrEgneAKwIq04ViGU5QxCuRmgxIWTr13O/WpkrReBr2k+M2nFOKRcc2/EgS2kNmyHKhGVlM+8IkqToPucRikZWBjRu2k8/wB+daRFDHwqSOWn2GwoPiuEJB3JGtZxlTPXz/jKWP8Ar8FIjEQdNO1FJjDLM0lmVgSZO58U6knQgf2zvrQatXToZ/T861aPGTo69/4NhGafMneCNNIPOr7g1nPdV9GKarIDDYRMk7dD9KpLGHzuFXY68usRAAjyrc8FwK5cikamGggFt5MnTKp1I3bloJESdHb+Jh9v3PiLS5jWuS91y+WN5I305Qo002nqN6Awyk3jcRS4XTxRC6bJoATy9T6yWuAXL96AWW2ky0GTO0AaNpz2+1H28XasQFWROUBZbKwWXknQkROkfFuSNMW/o7ZySdR58EyObfxBUlR4QsHQAGeR35TtyrM8c4wswpaR0Mekim8e4+bmiSB9f8VnbqzOWWIGsbCSANY1PijzojG3bOfJNRVfZMzB4zEkkLAGsczpz3k89DHIU25hRlMn8EkdJiPuD60FBQg7MDNT25YZfP7Ry7CtWjKLW1RVKykDNmB7REeVS2z0JI77+lQKutS7HpWlHCjYex3EiH90fxfD+nz+5rT38O7vkRSzHkPz6Dua8+4VOY3ASGTKykfz5pB+n1r2vFf/AM1gZtHZczHmWPfnB+1TBfB1xbaRlMPhEw9zM7K9xNV1OQGOWxJExPX51NieLPc0ynIRqdGKEzEpEkbQV1ncRM5rHXCLhIlto7TrUlnHFdSFmOcwR0I5j9KJxvhTih3ELIVXgBgZnLqRDZso1MNAIA55SOtUb4JyxyCSOR0PpynsYPSa0GOW29vOhcqxAvKGGYLtmIy+ON5idIkawHhbaw1sQ2SWtuCPEJEqdNfi0HUtsN1DXSK2ZdgQxDAgjcHQ+tNzVb8YQMquNwYntqf81WWRptWqMpWnRSUqVKkc4qQpUqAHrTxTBUiigaHrTwtMAp6CgtDwKmySBPT9ajtnT50QiTtrEaUFKIwAzOhgjfUHt3qe0ev0019NhTIIGoIrmee1BflBTEdz9fQVE8GRlzHmOXl6fSms7ZYB0mhXcjbTvQRNDrnDwzEIYhQY1j5k021g35AEQTII2GhPXQ6bcxSS9AImJGUH6k/vrRNu+MmhgAQOwAJ05S3ijyIoIo0HC8QAgVpVoEkEHTbTWO1XmEwVu9ZF22CUeYzbyCVJflMisOl+EdjoSi//AGZo1nXcHyFCe+Yr7tJVSxMZiFJ2zHXQACPqelZSxpnYvzZ/Ow3jHDTbclQSu7EDwqfMbDvVYTWn4f7T3LSsSqOGhSzrqdByDARqevStX7M8PwL2lvDDJnzMGLZmAYGRCsSq7CABpT9OK2ZTUZyuJhOE8JxEq4tPlfRWymG0J08xsefKt7w32TxMC45VABqgPjg6wRlhZ235nY1Z8Ddb7tdvXCAjwglhLaEPKkEDcdNDO1XuJusjQTouoOYnw66mdz++UnJyvZ1Y8kscfKM9exTWgieAEsc4hjzgATvyWTt8qzXG8VqxygCQcu4J0EnblNXnE75ZBdgZcxVo/m/CwjaZIMdRWM4teJE25bU5pMsOgA5gfOpStmnuLi7AeIWwsyQGkjUQDEA5dZiZAnpM8qrUvxOg15nceXnTb14sZbU9+lCs0kdK3UTiyTV6CXfNGuggDpG8CpxeyKSN407GQZHyj1qK0+kbbfSf1puKuggKNAPn6/vkKdXoPVJsFFSSK5lpLVnOWfCsT7t0JXOuZSQDEgHrsOknrXpfF+OfxNsqLL22tsQ6MJKkgMBmWRGUiPPbr5XhrWbT09SDHpO/at1wKMGhtXVH+oA63CJQHKoZGgHIQQRruI6xWbaTs6cbeinw+InEKhB8RKkehPaNgfSrzimBt20z6SYEHmev51mrWMDYxGjTM3ONSCBrrHOjOP40vcjYINdZA/U/5rRO1Zopab/0ETFulwOu40jkeoPb/HMTRb4i3K3Lei6+EawdJHKNSv8A8tIFVDZjoAQdd9I01J6bj5jmRMKEyADt4j6bT66+lJqzNsOz5gbY1GU/MLP3FVlomKsLD5de0fM6/Sq1G0qkZ5CopUqVI5xV0VyuigB61ItMWpEoKRIop6DWkgqRUpGiR2ylSJM1NgkHOp7lvUU7NVDVk1htKX8GjHbL3H6bVxIArq3DNBdfYNdwbp8MMPL8v+6rboJMRrNaWw4kGKB45cUrMAkmBIEgDoeW1IjJBebsosS0mAZjn1PP99qVu4chHkPSZ+hBPqai56VY4ThpYTrTMIwlJ6Brl05QvKFPLfLA+WvzNSW30InSI9Jlj66j1oW6pDEHcafpSBMR5fT/ALpE8C7+IkJOwJMaxJIJJHPp/aK9G9mb6rhkVEALKC0HdjEtHU15cokgcq02FxVsDLcLIQNCPoBWeRXo3w9bZvE4icLkUoWUSfDGaDMgr+KdNtQdeZpze0guZoP/ABPOJ+Ezz5V5s+IukzbcuFk9wBJJjyE0Pf4i7GdmO56+fWoWNs1lNWem2irLctN8NxZB89iJ5jQz2rF3rRZmAgOph16kfiHnofWquxxq5EFm07/Q9qOa6ci3gZYAB9dY5Ty3P1o8uI1NS2irxuEJJYb8x++f78xAKvrlwPB5/vQ/lVbfBUkgaNvpt+lXGRnKCuwRnjbeoSKmIk6D0rgWtEYytiUV0JSUVIGgUxpfYTw9gLiZvhLAN5HQn0mvRMfg2VCWLz4vGH0JBImI0On6b15sgmvReK8TLWEBGV8oDjk0CMw6HSD3rKf+HTiKRcDbawtwz7xL5WI8TAgGS2kLAI9O+vL1gSf+RLPv4v8A2x+IjYMdBqd9KjuYkTbtJ8TBS/YxMdzrJ9O4p3Gb/wD6VsgBQDcfkvQdz0A+kEjSPB6VsqOIYoTlQQBpA166seZknTmSe5oW2pEk+p/KirWFnKFBltRO4U7M3Vm+0dYEmJQZ1tjZDr57nz1EelMzpvYK4OQ9YJ+n/VABTVxjEhX6aD1zg/ZT8qARNKaJnG2UdKlSpHKKurSpUASLUyClSoNIk6DWp+VKlSNYhmGoplpUqDoh+o1SOddKA0qVMA23bAB/f73qux+G94YGyj9/alSpA4poqjhcpq94afAR2pUqBYUlLRnsdb8ZPWhgKVKmcc/2YU9kqFuLqjaT0PMHoaKwVlXzZ3UZYgMWGYGZykAjTTeN6VKoZpHo0sEZvdsSNQGO8Hcxy/QxQrseexpUqoUiSxhs2wMxIjmOcVPaxDopUDMjCCp+UgjbelSqWbRiqG2LijZiB0bX6j9KLDkaqRsROh0Ig6euxpUqUiY8BbeFkQgZn5tsqj98zHlTL1nIxU7ilSql0PKohNOyV2lTICBbhQRvPL6euh+daa/jPepObxSSQd/UEb7CZ1ilSqJnRj6CYdRZJAIN1gZfdUXoOrHoO1QXSCNRFtTOU7u/VuvU9oHOlSrRA+BBY2rZuv8A7lySJ3Uc2Pf9ar8MsZSd2M+nL9aVKgl9COIp/pr/AFXJ+Sn/APf0qutoY5UqVCIn0//Z",
+      "trailer": "https://www.youtube.com/embed/eHOc-4D7MjY",
+      "release": "2015",
+      "rating": "6",
+      "synopsis": "The heroic Peshwa Bajirao, married to Kashibai, falls in love with Mastani, a warrior princess in distress. They struggle to make their love triumph amid opposition from his conservative family.",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "moviename": "apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": 10,
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": 5,
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": 8,
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 6,
+      "moviename": "Kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": 9.5,
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "id": 7,
+      "moviename": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi sheety",
+      "director": "Rprashant",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2021",
+      "rating": 9.3,
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy."
+    },
+    {
+      "id": 8,
+      "moviename": "RRR",
+      "hero": "NTR Ramcharan",
+      "heroine": "alia",
+      "director": "Rajmouli",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "history",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/GY4BgdUSpbE",
+      "release": "2021",
+      "rating": 8,
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem."
+    },
+    {
+      "id": 9,
+      "moviename": "apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": 10,
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": 10,
+      "moviename": "mungaru male",
+      "hero": "Ganesh",
+      "heroine": "Pooja Gandhi",
+      "director": "Yogaraj bhutt",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/4082/1000044082/1000044082-h",
+      "trailer": "https://www.youtube.com/embed/nlsLKA6hlVQ",
+      "release": "2006",
+      "rating": 8,
+      "synopsis": "Mungaru Male ( transl. Pre-monsoon rain) is a 2006 Indian Kannada-language romantic drama film co-written and directed by Yogaraj Bhat, and produced by E. Krishnappa. It stars Ganesh, Pooja Gandhi and Anant Nag. It was the first film in South Indian Cinema to collect 70 crore and 75 crore gross."
+    },
+    {
+      "moviename": "3idiots",
+      "hero": "amirkhan",
+      "heroine": "kareenkapoor",
+      "director": "rajakumarhirani",
+      "languages": [
+        "Hindi"
+      ],
+      "genre": "comedy",
+      "poster": "https://image.airtel.tv/ULTRA/ULTRA_MOVIE_610902b73b971457336d8c6e/LANDSCAPE_169/LANDSCAPE_169_3_IDIOTS_LANDSCAPE_1920_x_1080.jpg",
+      "trailer": "https://www.youtube.com/embed/xvszmNXdM4w",
+      "release": "2000",
+      "rating": "9.8",
+      "synopsis": " In college, Farhan and Raju form a great bond with Rancho due to his refreshing outlook. Years later, a bet gives them a chance to look for their long-lost friend whose existence seems rather elusive.",
+      "id": 11
+    },
+    {
+      "moviename": "kabzaa",
+      "hero": "upendra",
+      "heroine": "shriya",
+      "director": "upendra",
+      "languages": [
+        "kannada",
+        "Hindi",
+        "Telugu"
+      ],
+      "genre": "action",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGE1MzUyZjEtYzlhMS00M2ZhLTkzNjEtMjQ5MjRhMTkxOTMzXkEyXkFqcGdeQXVyODA4MDA0Mjg@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/EMNwyhrmu0M",
+      "release": "2023",
+      "rating": "7",
+      "synopsis": "Due to rise of gang war in underworld government calls a ruthless cop Bhargava Bakshi to handle the situation.Bhargava calls all the gangsters in a group and feels they are just nothing and narrates the story of underworld gang he faced.In 1945 a freedom fighter Aamreshwara is killed by British government after his on people betray him his wife Tulsi looses all fortunes and shifts to Amarapura with her sons Arkshwara and Sankeshwara where they make living by selling flags",
+      "id": 12
+    },
+    {
+      "moviename": "milana",
+      "hero": "puneetrajakumar",
+      "heroine": "parvathyThiruvothu",
+      "director": "prakash",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://static.toiimg.com/thumb/resizemode-4,width-1200,height-900,msid-86194344/86194344.jpg",
+      "trailer": "https://www.youtube.com/embed/csx6Xr-bwNM",
+      "release": "2007",
+      "rating": "10",
+      "synopsis": "Aakash is a RJ for Radio Mirchi station in Bangalore, who is married to Anjali at Mysore. At their first night, Anjali demands a divorce from Aakash. Instead of showing any kind of frustration, Aakash calmly agrees to give divorce to Anjali, on the condition that only after they move to Bangalore and also requests Anjali to keep this as a secret from his parents, as he fears they would not be able to handle it",
+      "id": 13
+    },
+    {
+      "moviename": "shhh",
+      "hero": "kaashinath",
+      "heroine": "divya",
+      "director": "upendra",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "horror",
+      "poster": "https://i.ytimg.com/vi/TPmDuIDsR30/mqdefault.jpg",
+      "trailer": "https://www.youtube.com/embed/ui0dVVYzOjA",
+      "release": "1993",
+      "rating": "7",
+      "synopsis": "Shhh! is a 1993 Indian Kannada-language horror thriller film written and directed by Upendra.[1] It stars Kumar Govind, Kashinath and Suresh Heblikar, with N.B. Jayaprakash, Baby Rashmi, Megha and others in support roles. The film also stars Kashinath and introduced Kumar Govind as mainstream hero. It has a cameo by Upendra as a wannabe actor in police costume. This film went on to be a major commercial success. It created a new trend of thriller movies in Kannada cinema. It was also the debut movie of Sadhu Kokila as an actor and music director.",
+      "id": 14
+    },
+    {
+      "moviename": "bhajarangi",
+      "hero": "shivarajakumar",
+      "heroine": "aindrita ray",
+      "director": "harsha",
+      "languages": [
+        "kannada",
+        "Telugu"
+      ],
+      "genre": "divine",
+      "poster": "https://metrosaga.com/wp-content/uploads/2021/12/Untitled-design-4-1.jpg",
+      "trailer": "https://www.youtube.com/embed/GgU48KOtLIs",
+      "release": "2013",
+      "rating": "6",
+      "synopsis": "A cruel god-man rules and harasses the people in a village. Jeevan, who comes to the village to learn about his ancestors, ends up bravely fighting against the god-man to save the villagers.",
+      "id": 15
+    }
+  ]
+}
