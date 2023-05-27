@@ -17,6 +17,7 @@ function Addmovie() {
 
  let handleclick=(e)=>{
   e.preventDefault()
+  console.log("handle click method")
   // create new movie object
   let newMovie = {
       moviename : moviename.current.value,

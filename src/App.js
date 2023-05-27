@@ -21,7 +21,8 @@ function App() {
       <Navbar></Navbar>
         <Routes>
           <Route path='/' element={<Home></Home>}></Route>
-    
+            console.log("app .js  s s")
+            console.log("kokok")
             <Route path='/addmovie' element={ <Addmovie></Addmovie>}></Route>
             <Route path='/actionmovie' element={<Sction/>}></Route>
             <Route path="/moviedetails/:id" element={<Moviedetails/>}></Route>
